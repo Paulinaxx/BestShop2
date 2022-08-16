@@ -5,7 +5,7 @@
 @import 'scss/elements/_buttons.scss';
 @import 'scss/elements/_banner.scss';
 @import 'scss/elements/_informations.scss';
-
+@import 'scss/elements/_benefits.scss';
 
 a {
   color: $color-primary;
@@ -144,118 +144,6 @@ a {
   }
 }
 
-
-  //&__btn__banner {
-  //  @include buttonsBig;
-  //  margin: 30px;
-  //  display: inline-block;
-  //  font-size: 1.5rem;
-
-  //  @media (min-width: 768px) and (max-width: 1352px) {
-  //    padding: 22px 155px;
-  //    margin-top: 30px;
-  //  }
-  //}
-
-
-.informations {
-    &__title {
-      font-family: $font-raleway;
-      font-size: 3.5rem;
-      font-weight: normal;
-      text-align: center;
-      margin-top: 30px;
-    }
-    &__box {
-      display: flex;
-      flex-direction: column;
-      margin-top: 50px;
-      font-family: $font-raleway;
-      justify-content: center;
-      align-items: center;
-      //max-width: 160px;
-      text-align: center;
-
-      .circle {
-        width: 63px;
-        height: 63px;
-        border-radius: 50%;
-        position: relative;
-      }
-
-      .first {
-        background-color: $color-redish;
-      }
-
-      .second {
-        background-color: $color-primary;
-      }
-
-      .third {
-        background-color: $color-green;
-      }
-    }
-    &__img {
-      left: 45%;
-      top: 0;
-      position: absolute;
-      vertical-align: middle;
-    }
-    &__number {
-      font-size: 1.25rem;
-      font-weight: 800;
-      letter-spacing: .1875rem;
-      margin-top: 13px;
-    }
-    &__description {
-      color: $color-grey;
-      margin-top: 19px;
-    }
-}
-
-
-.benefits {
-  background-color: $color-light-grey;
-  padding: 30px 0;
-
-  &__box {
-    background-color: $color-white;
-    border: 1px solid #e8e9ed;
-    border-radius: 5px;
-    display: flex;
-    flex-direction: column-reverse;
-    flex-wrap: wrap;
-    margin: 30px 30px;
-    padding: 20px 20px;
-  }
-  //justify-content: space-between;
-  //align-items: flex-end;
-  //margin-bottom: 37px;
-
-  &__text {
-    text-align: left;
-    max-width: 100%;
-
-    .benefits__title {
-      font-family: $font-raleway;
-      font-size: 2.25rem;
-      margin-top: 20px;
-    }
-    .benefits__description {
-      line-height: 1.375rem;
-      margin-top: 30px;
-      color: $color-black;
-    }
-  }
-  &__image {
-    position: relative;
-    .benefits__img {
-      width: 70vw;
-      position: relative;
-      z-index: 2;
-    }
-  }
-}
 
 .pricing {
   h2 {
