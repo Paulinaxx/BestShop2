@@ -1,18 +1,11 @@
 @import 'scss/generic/_reset.scss';
 @import 'scss/settings/_mixins.scss';
 @import 'scss/settings/_variables.scss';
+@import 'scss/elements/_base.scss';
 @import 'scss/elements/_buttons.scss';
-@import 'scss/elements/headings';
+@import 'scss/elements/_banner.scss';
+@import 'scss/elements/_informations.scss';
 
-* {
-  box-sizing: border-box;
-}
-
-.container {
-  margin: 0 auto;
-  width: 100%;
-  max-width: 990px;
-}
 
 a {
   color: $color-primary;
@@ -151,45 +144,19 @@ a {
   }
 }
 
-.banner {
-  &__content {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
 
-    @include tablet {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-  }
+  //&__btn__banner {
+  //  @include buttonsBig;
+  //  margin: 30px;
+  //  display: inline-block;
+  //  font-size: 1.5rem;
 
-  &__title {
-    font-family: $font-raleway;
-    font-size: 4rem;
-    font-weight: normal;
-    margin-top: 50px;
-    text-align: center;
-  }
-  &__text {
-    margin: 20px 0 0 38px;
-    font-family: $font-open-sans;
-    font-weight: normal;
-    font-size: 1.5rem;
-    text-align: center;
-  }
-  &__btn__banner {
-    @include buttonsBig;
-    margin: 30px;
-    display: inline-block;
-    font-size: 1.5rem;
-  }
+  //  @media (min-width: 768px) and (max-width: 1352px) {
+  //    padding: 22px 155px;
+  //    margin-top: 30px;
+  //  }
+  //}
 
-  img {
-    width: 100%;
-    height: auto;
-  }
-}
 
 .informations {
     &__title {
@@ -246,6 +213,7 @@ a {
     }
 }
 
+
 .benefits {
   background-color: $color-light-grey;
   padding: 30px 0;
@@ -296,9 +264,11 @@ a {
     font-size: 3rem;
     margin-top: 15px;
   }
+
   &__boxes {
     margin-top: 50px;
   }
+
   &__box {
     //width: 370px;
     display: flex;
@@ -310,59 +280,66 @@ a {
     &__basic {
       border: 1px solid $color-redish;
     }
+
     &__professional {
       border: 1px solid $color-primary;
       //width: 400px;
       //margin: 0 40px;
       box-shadow: 5px 1px 27px $color-shadow;
     }
+
     &__premium {
       border: 1px solid $color-green;
     }
   }
-  &__details {
-    margin-bottom: 60px;
-    margin-top: 34px;
-    text-align: center;
+    &__details {
+      margin-bottom: 60px;
+      margin-top: 34px;
+      text-align: center;
 
-    .pricing__name {
-      font-family: $font-raleway;
-      font-weight: 700;
-      font-size: 1.25rem;
+      .pricing__name {
+        font-family: $font-raleway;
+        font-weight: 700;
+        font-size: 1.25rem;
+      }
+
+      .pricing__price {
+        margin-top: 25px;
+        font-size: 3rem;
+        font-family: $font-open-sans;
+        font-weight: 300;
+
+        &__basic {
+          color: $color-redish;
+          font-size: 2.5rem;
+        }
+
+        &__professional {
+          color: $color-primary;
+          font-size: 2.5rem;
+        }
+
+        &__premium {
+          color: $color-green;
+          font-size: 2.5rem;
+        }
+      }
     }
-    .pricing__price {
-      margin-top: 25px;
-      font-size: 3rem;
+
+    &__items {
+      text-align: center;
       font-family: $font-open-sans;
-      font-weight: 300;
-      &__basic {
-        color: $color-redish;
-        font-size: 2.5rem;
-      }
-      &__professional {
-        color: $color-primary;
-        font-size: 2.5rem;
-      }
-      &__premium {
-        color: $color-green;
-        font-size: 2.5rem;
-      }
-    }
-  }
-  &__items {
-    text-align: center;
-    font-family: $font-open-sans;
 
-    .pricing_item::before {
-      content: "";
-      width: 11px;
-      height: 11px;
-      display: inline-block;
-      margin-right: 10px;
-      background-image: url("../images/Checkmark.svg");
-    }
-  }
-  .pricing_item_red::before {
+      .pricing_item::before {
+        content: "";
+        width: 11px;
+        height: 11px;
+        display: inline-block;
+        margin-right: 10px;
+        background-image: url("../images/Checkmark.svg");
+      }
+
+      .pricing_item_red::before {
         content: "";
         width: 11px;
         height: 11px;
@@ -371,6 +348,8 @@ a {
         background-image: url("../images/Close.svg");
       }
     }
+  }
+
 
 
 

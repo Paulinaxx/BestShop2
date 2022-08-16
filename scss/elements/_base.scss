@@ -1,0 +1,29 @@
+@import 'scss/settings/_variables.scss';
+@import 'scss/settings/_mixins.scss';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-open-sans;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: $font-raleway;
+  font-size: 2.25rem;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1352px;
+
+  @include desktop {
+    width: 100%;
+    padding: 0 15px;
+  }
+}

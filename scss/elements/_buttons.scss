@@ -1,25 +1,29 @@
 @import 'scss/settings/_variables.scss';
 
-@mixin buttonsBig {
+.btn {
   border-radius: 35px;
   border: none;
-  display: inline-block;
-  font-weight: 700;
+  font-weight: bold;
   padding: 22px 70px;
   text-decoration: none;
-  font-family: $font-raleway;
   color: white;
+
+&--primary {
   background-color: $color-primary;
+  box-shadow: 3px 10px 14px $color-shadow;
 }
 
-@mixin buttonsSmall {
-  border-radius: 35px;
-  border: none;
-  display: inline-block;
-  font-weight: 700;
-  padding: 16px 57px;
-  text-decoration: none;
-  color: white;
-  font-family: $font-raleway;
-  background-color: $color-primary;
+&--redish {
+  background-color: $color-redish;
 }
+
+&--green {
+  background-color: $color-green;
+}
+
+&--large {
+  padding: 22px 155px;
+}
+}
+
+
