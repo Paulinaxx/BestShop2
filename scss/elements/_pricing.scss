@@ -1,0 +1,177 @@
+@import 'scss/elements/_base.scss';
+@import 'scss/settings/_variables.scss';
+@import 'scss/settings/_mixins.scss';
+@import 'scss/elements/_buttons.scss';
+
+
+.pricing {
+  margin: 100px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  @include desktop {
+    margin: 50px auto;
+  }
+
+  &__boxes {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @include desktop {
+      flex-direction: column;
+      width: 100%;
+    }
+  }
+
+  &__box {
+    width: 370px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    border: 1px solid $color-redish;
+
+    @include desktop {
+      width: 100%;
+      max-width: 370px;
+      flex-direction: row;
+      flex-wrap: wrap;
+      margin-bottom: 50px;
+      justify-content: center;
+      padding: 25px 10px 0 10px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    .btn {
+      position: relative;
+      bottom: -25px;
+      font-size: 0.8125rem;
+
+      &--redish {
+        background-color: $color-redish;
+      }
+      &--primary {
+        background-color: $color-primary;
+      }
+      &--green {
+        background-color: $color-green;
+      }
+    }
+
+    &__basic {
+      border: 1px solid $color-redish;
+
+      .pricing__price {
+        margin-bottom: 30px;
+
+        @include desktop {
+          margin-bottom: 0;
+        }
+      }
+    }
+
+    &__professional {
+      border: 1px solid $color-primary;
+      width: 400px;
+      margin: 0 40px;
+      box-shadow: 5px 1px 27px $color-shadow;
+
+      @include tablet {
+        max-width: 400px;
+        width: 100%;
+        margin: 0 0 50px 0;
+      }
+
+      .pricing {
+        &__limited {
+          font-size: 1.3125rem;
+        }
+        &__items {
+          margin-bottom: 25px;
+        }
+      }
+    }
+
+    &__premium {
+      border: 1px solid $color-green;
+    }
+  }
+  &__details {
+    margin-bottom: 60px;
+    margin-top: 34px;
+    text-align: center;
+
+    @include desktop {
+      width: 50%;
+      margin: 0;
+    }
+  }
+
+  &__name {
+      font-family: $font-raleway;
+      font-weight: 700;
+      font-size: 1.25rem;
+    }
+
+  &__price {
+    margin-top: 25px;
+    font-size: 4rem;
+    font-family: $font-open-sans;
+    font-weight: 300;
+    &__basic {
+      color: $color-redish;
+    }
+    &__professional {
+      color: $color-primary
+    }
+    &__premium {
+      color: $color-green;
+    }
+  }
+
+
+  &__items {
+    text-align: center;
+
+    @include desktop {
+      width: 50%;
+      text-align: left;
+    }
+  }
+
+  &__item {
+    font-size: 14px;
+    margin-bottom: 20px;
+
+    @include desktop {
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    &::before {
+      content: "";
+      width: 11px;
+      height: 11px;
+      display: inline-block;
+      margin-right: 10px;
+      background-image: url("../images/Checkmark.svg");
+    }
+
+    .pricing_item_red::before {
+      content: "";
+      width: 11px;
+      height: 11px;
+      display: inline-block;
+      margin-right: 10px;
+      background-image: url("../images/Close.svg");
+    }
+  }
+}

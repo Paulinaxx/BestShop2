@@ -1,0 +1,68 @@
+@import 'scss/elements/_base.scss';
+@import 'scss/settings/_variables.scss';
+@import 'scss/elements/_buttons.scss';
+@import 'scss/settings/_mixins.scss';
+
+.contact {
+  padding: 80px 100px 100px;
+  display: flex;
+  justify-content: center;
+
+  @include tablet {
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 15px;
+  }
+
+  &__details {
+    width: 50%;
+
+    @include  tablet {
+      width: 100%;
+    }
+  }
+  &__title {
+    font-size: 3.0625rem;
+    line-height: 4rem;
+    text-align: start;
+  }
+  &__description {
+    font-size: 1rem;
+    line-height: 1.3rem;
+    margin: 22px 0 42px;
+
+    @include tablet {
+      margin: 5px 0 35px;
+    }
+  }
+
+  &__info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: $color-grey;
+
+    @include tablet {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .contact {
+
+      @include tablet {
+        margin-bottom: 10px;
+      }
+
+      &__email ,
+      &__number {
+        color: $color-grey;
+        text-decoration: none;
+        font-weight: 500;
+      }
+    }
+    img {
+      margin-right: 10px;
+    }
+  }
+}
+
