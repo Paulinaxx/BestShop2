@@ -1,4 +1,4 @@
-4359
+4361
 75C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\react-refresh\cjs133048483141211289 1
 107C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs133048483219777499 0
 62C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@swc133048483053550569 1
@@ -19,7 +19,7 @@
 68C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\images\Twitter.svg133005545738390675 0
 97C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\css-tree\lib\definition-syntax\index.js133048483202678545 0
 104C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\multibackgrounds.js133048483268719194 0
-57C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\generic133052093843041795 1
+57C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\generic133052118175405061 1
 105C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@jridgewell\set-array\dist\types\set-array.d.ts133048483143645182 0
 80C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\svgo\lib\svgo\jsAPI.js133048483182838615 0
 90C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\htmlnano\lib\modules\minifyJs.js133048483159677942 0
@@ -31,7 +31,7 @@
 86C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\node-releases\data\processed133048483135387155 1
 78C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\electron-to-chromium133048483155660273 1
 114C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js133048483271919951 0
-50C:\Users\wojto\CodersLab\BestShop2\BestShop2\.idea133052022045390097 1
+50C:\Users\wojto\CodersLab\BestShop2\BestShop2\.idea133052191902943853 1
 95C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\css-has.js133048483231871555 0
 75C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\term-size\license133048483137251113 0
 100C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\font-feature.js133048483261547920 0
@@ -39,7 +39,7 @@
 93C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\svgo\plugins\removeEditorsNSData.js133048483195167188 0
 89C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\type-fest\ts41\pascal-case.d.ts133048483176705099 0
 111C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@babel\highlight\node_modules\color-convert\README.md133048483140947878 0
-49C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist133052093903882101 1
+49C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist133052191905031588 1
 82C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\abortcontroller-polyfill133048483156218173 1
 86C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\domhandler\lib\node.d.ts.map133048483141211289 0
 67C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\is-number133048483137491004 1
@@ -58,9 +58,12 @@
 95C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133048483185833867 0
 76C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\src\windows.c133048483207561534 0
 105C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133048483158373877 0
-55C:\Users\wojto\CodersLab\BestShop2\BestShop2\index.html133051987193318775 0
+55C:\Users\wojto\CodersLab\BestShop2\BestShop2\index.html133052189191383796 0
 57C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules133048483289408853 1
 72C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\elements\_pricing.scss133051963580873993 0
+114C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133048483161515913 0
+103C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133048483135171169 0
+69C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\elements\_form.scss133052191899085378 0
 49C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss133048454779759480 1
 74C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\has-flag\license133048483138033813 0
 85C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\svgo\plugins\mergeStyles.js133048483184321264 0
@@ -80,7 +83,7 @@
 87C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\terser\lib\compress\inline.js133048483190814023 0
 89C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\weak-lru-cache\rollup.config.js133048483140203388 0
 62C:\Users\wojto\CodersLab\BestShop2\BestShop2\package-lock.json133048483289154302 0
-58C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\elements133052094342604379 1
+58C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\elements133052191899085378 1
 93C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\yaml\browser\dist\legacy-exports.js133048483150604469 0
 79C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\svgo\lib\svgo-node.js133048483204822021 0
 84C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\graph\src\types.js133048483158477224 0
@@ -111,9 +114,6 @@
 79C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\graph\LICENSE133048483134314979 0
 71C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\settings\_mixins.scss133051275070689946 0
 82C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\detect-libc\package.json133048483134324870 0
-71C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\color-convert133048483141347592 1
-76C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\yaml\dist\types.js133048483193206075 0
-65C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\is-glob133048483137501002 1
 83C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\is-arrayish\.editorconfig133048483141291280 0
 63C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\clone133048483140535803 1
 88C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\cosmiconfig\dist\Explorer.d.ts133048483184580941 0
@@ -189,7 +189,7 @@
 68C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\fill-range133048483137501002 1
 88C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\css-what\lib\commonjs\types.js133048483146842958 0
 78C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\json5\lib\index.d.ts133048483159767356 0
-68C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\generic\_main.scss133052093843041795 0
+68C:\Users\wojto\CodersLab\BestShop2\BestShop2\scss\generic\_main.scss133052118175395080 0
 85C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\package-manager\src133048483186557025 1
 70C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\css-tree\lib133048483202841446 1
 71C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\dotenv-expand133048483140193395 1
@@ -287,6 +287,9 @@
 109C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133048483259560121 0
 103C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@swc\helpers\lib\_class_private_field_init.js133048483166284498 0
 76C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\chrome-trace-event133048483141457584 1
+71C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\color-convert133048483141347592 1
+76C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\yaml\dist\types.js133048483193206075 0
+65C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\is-glob133048483137501002 1
 68C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\color-name133048483137570982 1
 67C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\commander133048483145805091 1
 82C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\optimizer-terser133048483138510367 1
@@ -459,8 +462,8 @@
 71C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\parent-module133048483137540990 1
 80C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\domelementtype\lib\esm133048483146190426 1
 68C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\parse-json133048483137530985 1
-103C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\async-clipboard.js133048483186652202 0
 91C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\svgo\plugins\removeHiddenElems.js133048483197676300 0
+103C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\async-clipboard.js133048483186652202 0
 92C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\utility-types\dist\mapped-types.js133048483140093414 0
 67C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\path-type133048483139232405 1
 110C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts133048483158517559 0
@@ -470,7 +473,7 @@
 101C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\css-tree\lib\syntax\node\DeclarationList.js133048483191673245 0
 80C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\domutils\lib\legacy.js133048483140143446 0
 83C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\utils\src\blob.js133048483142668945 0
-71C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\BestShop2.3464ddca.js133052093902362101 0
+71C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\BestShop2.3464ddca.js133052124038258630 0
 110C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133048483212702238 0
 85C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\watcher\binding.gyp133048483158942756 0
 79C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\xxhash-wasm\README.md133048483148162778 0
@@ -630,7 +633,7 @@
 77C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\yaml\parse-cst.d.ts133048483200935969 0
 80C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\escalade\sync\index.js133048483137130548 0
 75C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\yaml\parse-cst.js133048483172819539 0
-70C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Trumpet.54bc1990.png133052093900163277 0
+70C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Trumpet.54bc1990.png133052124035566308 0
 84C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\sass\types\value\list.d.ts133048483206546902 0
 91C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\mp3.js133048483268639194 0
 86C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\svgo\plugins\inlineStyles.js133048483181445891 0
@@ -812,7 +815,7 @@
 100C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\setimmediate.js133048483272157989 0
 116C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133048483137221090 0
 88C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\yaml\browser\dist\parse-cst.js133048483163030618 0
-69C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\iPhone.0b00ba7c.png133052093902464147 0
+69C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\iPhone.0b00ba7c.png133052124037951021 0
 98C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\yaml\browser\dist\PlainValue-b8036b75.js133048483173693208 0
 104C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\nested133048483207383223 1
 98C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\yaml\browser\dist\resolveSeq-492ab440.js133048483180822064 0
@@ -952,12 +955,12 @@
 147C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\index.js133048483196137659 0
 79C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\is-arrayish\README.md133048483136679117 0
 88C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\update-browserslist-db\LICENSE133048483134264883 0
-85C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\transformer-css\lib133048483135121226 1
-115C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133048483134557109 0
 101C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\electron-to-chromium\chromium-versions.json133048483143423392 0
 90C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\update-browserslist-db\README.md133048483140907876 0
 103C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133048483150912069 0
 124C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob133048483217318788 1
+115C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133048483134557109 0
+85C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\transformer-css\lib133048483135121226 1
 82C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\entities\lib\decode.d.ts133048483173262385 0
 72C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\sass\README.md133048483202211602 0
 106C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133048483168510802 0
@@ -974,8 +977,6 @@
 89C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\regions\AF.js133048483149162269 0
 77C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\type-fest\readme.md133048483137191096 0
 74C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\type-fest\source133048483189710028 1
-110C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133048483202769226 0
-97C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\runtime-browser-hmr\lib\loaders133048483135352784 1
 104C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\css-text-justify.js133048483256875749 0
 101C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\transformer-svg\src\dependencies.js133048483137201103 0
 72C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\type-fest\ts41133048483186142277 1
@@ -1624,7 +1625,7 @@
 101C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\transformer-js\src\JSTransformer.js133048483141140755 0
 83C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\posthtml-render\readme.md133048483140263428 0
 99C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@swc\helpers\src\_array_without_holes.mjs133048483210121749 0
-66C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Eye.72c6fe94.svg133052093903852139 0
+66C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Eye.72c6fe94.svg133052124036033520 0
 116C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133048483215019897 0
 89C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\posthtml-render\dist\index.d.ts133048483141221248 0
 100C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\htmlnano\lib\modules\removeOptionalTags.js133048483175023736 0
@@ -1947,8 +1948,6 @@
 81C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\csso\lib\clean\index.js133048483185027291 0
 99C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\node_modules\node-addon-api\index.js133048483158911642 0
 89C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\regions\AL.js133048483158088253 0
-114C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133048483161515913 0
-103C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133048483135171169 0
 92C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\graph\src\AdjacencyList.js133048483140746024 0
 105C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js133048483135262720 0
 104C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133048483139455034 0
@@ -2050,6 +2049,8 @@
 107C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133048483207125803 0
 99C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\customevent.js133048483258006816 0
 77C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\glob-parent\LICENSE133048483134114858 0
+110C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133048483202769226 0
+97C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\runtime-browser-hmr\lib\loaders133048483135352784 1
 111C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133048483203074083 0
 113C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133048483228807717 0
 106C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\tooltag133048483159558409 0
@@ -3100,7 +3101,7 @@
 97C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\shadowdom.js133048483272442419 0
 85C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\packager-js\LICENSE133048483134234876 0
 83C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\core\src\utils.js133048483228937963 0
-68C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\index.8537b4f4.css133052093901974160 0
+68C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\index.8537b4f4.css133052191904964710 0
 97C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\es6-class.js133048483260599755 0
 98C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\caniuse-lite\data\features\es6-module.js133048483260659871 0
 91C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\core\lib\public\Target.js133048483225099442 0
@@ -3997,7 +3998,7 @@
 132C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias133048483212196531 1
 84C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@jridgewell\set-array\dist133048483141597929 1
 133C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory133048483212913951 1
-60C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\index.html133052093903852139 0
+60C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\index.html133052189192464109 0
 113C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@jridgewell\trace-mapping\dist\types\binary-search.d.ts133048483149879281 0
 129C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false133048483215168714 1
 139C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\dist.js133048483168930798 0
@@ -4344,17 +4345,18 @@
 69C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\.bin\terser133048483279798574 0
 73C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\.bin\terser.cmd133048483279788592 0
 73C:\Users\wojto\CodersLab\BestShop2\BestShop2\node_modules\.bin\terser.ps1133048483279788592 0
-73C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Background.dbff2150.png133052093900173275 0
-75C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\BestShop2.3464ddca.js.map133052093902464147 0
-70C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Catalog.5dd54124.svg133052093901974160 0
-72C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Checkmark.e7ad06c8.svg133052093903852139 0
-68C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Close.57ecc643.svg133052093901974160 0
-72C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\index.8537b4f4.css.map133052093902454449 0
-70C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Macbook.7ad6a2bb.png133052093900163277 0
-72C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Mail Icon.113e8234.svg133052093901974160 0
-69C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Person.5fd86b4c.svg133052093901974160 0
-73C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Phone Icon.41cc3436.svg133052093903842120 0
+73C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Background.dbff2150.png133052124035599176 0
+75C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\BestShop2.3464ddca.js.map133052124038318618 0
+70C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Catalog.5dd54124.svg133052124038288619 0
+74C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Checkmark-1.c79c0c4f.svg133052124036053889 0
+72C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Checkmark.e7ad06c8.svg133052124036043480 0
+68C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Close.57ecc643.svg133052124038288619 0
+72C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\index.8537b4f4.css.map133052191905015145 0
+70C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Macbook.7ad6a2bb.png133052124035576331 0
+72C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Mail Icon.113e8234.svg133052124038366310 0
+69C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Person.5fd86b4c.svg133052124038288619 0
+73C:\Users\wojto\CodersLab\BestShop2\BestShop2\dist\Phone Icon.41cc3436.svg133052124036043480 0
 61C:\Users\wojto\CodersLab\BestShop2\BestShop2\.idea\.gitignore133048483486553810 0
 64C:\Users\wojto\CodersLab\BestShop2\BestShop2\.idea\BestShop2.iml133048483482900261 0
 58C:\Users\wojto\CodersLab\BestShop2\BestShop2\.idea\vcs.xml133048483484171661 0
-64C:\Users\wojto\CodersLab\BestShop2\BestShop2\.idea\workspace.xml133052022042264927 0
+64C:\Users\wojto\CodersLab\BestShop2\BestShop2\.idea\workspace.xml133052191902933845 0
