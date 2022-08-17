@@ -48,21 +48,21 @@
     }
 
     .contact {
-
       @include tablet {
         margin-bottom: 10px;
       }
-
       &__email ,
       &__number {
         color: $color-grey;
         text-decoration: none;
         font-weight: 500;
       }
-    }
-    img {
-      margin-right: 10px;
+      img {
+        margin-right: 10px;
+      }
     }
   }
 }
+
+
 

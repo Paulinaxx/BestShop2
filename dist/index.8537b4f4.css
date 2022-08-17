@@ -1171,7 +1171,7 @@ h2 {
   text-decoration: none;
 }
 
-.contact__info img {
+.contact__info .contact img {
   margin-right: 10px;
 }
 
@@ -1321,6 +1321,92 @@ h2 {
   padding: 20px 97px;
   font-size: 1rem;
   box-shadow: 5px 10px 14px #07ace629;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Open Sans, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: Raleway, sans-serif;
+  font-size: 2.25rem;
+}
+
+.container {
+  width: 1352px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1352px) {
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+}
+
+.btn {
+  color: #fff;
+  border: none;
+  border-radius: 35px;
+  padding: 22px 70px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.btn--primary {
+  background-color: #08a6e4;
+  box-shadow: 3px 10px 14px #07ace629;
+}
+
+.btn--redish {
+  background-color: #fb3b64;
+}
+
+.btn--green {
+  background-color: #55dfb4;
+}
+
+.btn--large {
+  padding: 22px 155px;
+}
+
+.footer {
+  padding: 20px 0;
+  box-shadow: 0 -5px 40px #00000029;
+}
+
+.footer__container {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.footer__info {
+  flex-direction: column;
+  justify-content: space-around;
+  display: flex;
+}
+
+.footer__info__logo {
+  color: #08a6e4;
+  font-family: Raleway, sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.footer__info__year-copyright {
+  color: #a5a5a5;
+  margin-top: 5px;
+  line-height: 2rem;
 }
 
 a {
