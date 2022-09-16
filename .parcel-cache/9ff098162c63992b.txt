@@ -1,4 +1,4 @@
-4383
+4384
 78C:\Users\wojto\BestShop2\node_modules\css-tree\lib\syntax\node\MediaFeature.js133078222777150585 0
 49C:\Users\wojto\BestShop2\node_modules\buffer-from133078222735673424 1
 80C:\Users\wojto\BestShop2\node_modules\@parcel\core\src\requests\TargetRequest.js133078222561777464 0
@@ -14,7 +14,7 @@
 52C:\Users\wojto\BestShop2\node_modules\yaml\schema.js133078222868031339 0
 77C:\Users\wojto\BestShop2\node_modules\@parcel\packager-raw\src\RawPackager.js133078222573527773 0
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\KM.js133078222761889273 0
-30C:\Users\wojto\BestShop2\.idea133078279580855144 1
+30C:\Users\wojto\BestShop2\.idea133078300718396764 1
 94C:\Users\wojto\BestShop2\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133078222572235380 0
 49C:\Users\wojto\BestShop2\scss\elements\_form.scss133078279538166198 0
 62C:\Users\wojto\BestShop2\node_modules\@trysound\sax\lib\sax.js133078222725317117 0
@@ -34,7 +34,7 @@
 98C:\Users\wojto\BestShop2\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133078222834856206 0
 69C:\Users\wojto\BestShop2\node_modules\@parcel\workers\src\Profiler.js133078222716541215 0
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\SZ.js133078222764293144 0
-29C:\Users\wojto\BestShop2\dist133078279554585018 1
+29C:\Users\wojto\BestShop2\dist133078303642351069 1
 31C:\Users\wojto\BestShop2\images133078222868232947 1
 82C:\Users\wojto\BestShop2\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133078222787775085 0
 63C:\Users\wojto\BestShop2\node_modules\import-fresh\package.json133078222806608500 0
@@ -44,7 +44,7 @@
 109C:\Users\wojto\BestShop2\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133078222717545138 0
 116C:\Users\wojto\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main\package.json133078222568052134 0
 80C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\PublicDependency.test.js133078222561895215 0
-38C:\Users\wojto\BestShop2\scss\elements133078279538356844 1
+38C:\Users\wojto\BestShop2\scss\elements133078303614690000 1
 46C:\Users\wojto\BestShop2\node_modules\chokidar133078222766986236 1
 51C:\Users\wojto\BestShop2\node_modules\tslib\modules133078222861621203 1
 50C:\Users\wojto\BestShop2\node_modules\yaml\browser133078222867915003 1
@@ -53,7 +53,7 @@
 103C:\Users\wojto\BestShop2\node_modules\@parcel\package-manager\test\fixtures\packages\peers\package.json133078222572596081 0
 55C:\Users\wojto\BestShop2\node_modules\csso\lib\usage.js133078222784638344 0
 72C:\Users\wojto\BestShop2\node_modules\svgo\plugins\removeStyleElement.js133078222856632929 0
-35C:\Users\wojto\BestShop2\index.html133078278669172478 0
+35C:\Users\wojto\BestShop2\index.html133078300712784704 0
 66C:\Users\wojto\BestShop2\node_modules\svgo\plugins\cleanupAttrs.js133078222855859297 0
 60C:\Users\wojto\BestShop2\node_modules\picomatch\package.json133078222830886259 0
 52C:\Users\wojto\BestShop2\node_modules\yaml\README.md133078222866827574 0
@@ -69,7 +69,7 @@
 73C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\forms.js133078222748413640 0
 77C:\Users\wojto\BestShop2\node_modules\terser\node_modules\commander\Readme.md133078222858197177 0
 58C:\Users\wojto\BestShop2\node_modules\color-name\README.md133078222768234820 0
-29C:\Users\wojto\BestShop2\scss133078273347585085 1
+29C:\Users\wojto\BestShop2\scss133078303013419294 1
 55C:\Users\wojto\BestShop2\node_modules\dotenv-expand\lib133078222791128360 1
 54C:\Users\wojto\BestShop2\node_modules\posthtml\license133078222834627410 0
 70C:\Users\wojto\BestShop2\node_modules\svgo\plugins\removeDimensions.js133078222856233849 0
@@ -87,7 +87,7 @@
 52C:\Users\wojto\BestShop2\node_modules\@parcel\plugin133078222573737347 1
 51C:\Users\wojto\BestShop2\scss\settings\_mixins.scss133078243272371102 0
 62C:\Users\wojto\BestShop2\node_modules\svgo\lib\svgo\plugins.js133078222855443211 0
-40C:\Users\wojto\BestShop2\scss\_main.scss133078258740352609 0
+40C:\Users\wojto\BestShop2\scss\_main.scss133078303013399203 0
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\AZ.js133078222758552565 0
 46C:\Users\wojto\BestShop2\node_modules\css-tree133078222779226353 1
 81C:\Users\wojto\BestShop2\node_modules\update-browserslist-db\check-npm-version.js133078222864261822 0
@@ -98,6 +98,9 @@
 57C:\Users\wojto\BestShop2\node_modules\braces\package.json133078222734805794 0
 61C:\Users\wojto\BestShop2\node_modules\nullthrows\package.json133078222827433099 0
 50C:\Users\wojto\BestShop2\scss\settings\_fonts.scss133078243978972579 0
+55C:\Users\wojto\BestShop2\scss\elements\_calculator.scss133078303614669497 0
+74C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_inherits_loose.mjs133078222723234864 0
+69C:\Users\wojto\BestShop2\node_modules\@parcel\transformer-postcss\src133078222686484364 1
 89C:\Users\wojto\BestShop2\node_modules\@jridgewell\trace-mapping\dist\types\by-source.d.ts133078222558082212 0
 78C:\Users\wojto\BestShop2\node_modules\binary-extensions\binary-extensions.json133078222733358667 0
 56C:\Users\wojto\BestShop2\node_modules\utility-types\dist133078222865163788 1
@@ -109,11 +112,6 @@
 50C:\Users\wojto\BestShop2\scss\settings\_index.scss133078243471538081 0
 68C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_ts_param.mjs133078222724656305 0
 66C:\Users\wojto\BestShop2\node_modules\css-tree\dist\csstree.min.js133078222774227826 0
-64C:\Users\wojto\BestShop2\node_modules\react-refresh\package.json133078222835783619 0
-72C:\Users\wojto\BestShop2\node_modules\@parcel\core\lib\serializerCore.js133078222561105338 0
-67C:\Users\wojto\BestShop2\node_modules\source-map-js\source-map.d.ts133078222851865439 0
-69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\OM.js133078222762817723 0
-52C:\Users\wojto\BestShop2\node_modules\dom-serializer133078222788693171 1
 52C:\Users\wojto\BestShop2\node_modules\to-regex-range133078222861337768 1
 74C:\Users\wojto\BestShop2\node_modules\mdn-data\api\inheritance.schema.json133078222819782396 0
 45C:\Users\wojto\BestShop2\node_modules\is-json133078222809532936 1
@@ -250,7 +248,7 @@
 72C:\Users\wojto\BestShop2\node_modules\htmlnano\docs\docusaurus.config.js133078222799409417 0
 83C:\Users\wojto\BestShop2\node_modules\msgpackr-extract\src\.vs\ProjectSettings.json133078222821554370 0
 68C:\Users\wojto\BestShop2\node_modules\@parcel\cache\src\LMDBCache.js133078222559804512 0
-40C:\Users\wojto\BestShop2\dist\index.html133078279552404152 0
+40C:\Users\wojto\BestShop2\dist\index.html133078303640963762 0
 43C:\Users\wojto\BestShop2\node_modules\chalk133078222766324241 1
 79C:\Users\wojto\BestShop2\node_modules\@swc\helpers\lib\_class_name_tdz_error.js133078222719005013 0
 66C:\Users\wojto\BestShop2\node_modules\ordered-binary\tests\test.js133078222827894615 0
@@ -297,10 +295,15 @@
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\IL.js133078222761432196 0
 49C:\Users\wojto\BestShop2\node_modules\detect-libc133078222786967620 1
 87C:\Users\wojto\BestShop2\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133078222802663299 0
+64C:\Users\wojto\BestShop2\node_modules\react-refresh\package.json133078222835783619 0
+72C:\Users\wojto\BestShop2\node_modules\@parcel\core\lib\serializerCore.js133078222561105338 0
+67C:\Users\wojto\BestShop2\node_modules\source-map-js\source-map.d.ts133078222851865439 0
+69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\OM.js133078222762817723 0
+52C:\Users\wojto\BestShop2\node_modules\dom-serializer133078222788693171 1
 52C:\Users\wojto\BestShop2\node_modules\domelementtype133078222788789345 1
 104C:\Users\wojto\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias133078222567955787 1
 76C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\ParcelConfig.test.js133078222561875192 0
-51C:\Users\wojto\BestShop2\dist\BestShop2.3464ddca.js133078279554535368 0
+51C:\Users\wojto\BestShop2\dist\BestShop2.3464ddca.js133078303629739101 0
 98C:\Users\wojto\BestShop2\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js133078222788599778 0
 48C:\Users\wojto\BestShop2\node_modules\domhandler133078222789090381 1
 72C:\Users\wojto\BestShop2\node_modules\@parcel\workers\test\workerfarm.js133078222717708550 0
@@ -525,7 +528,7 @@
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\NO.js133078222762780401 0
 73C:\Users\wojto\BestShop2\node_modules\node-releases\data\release-schedule133078222825210144 1
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\KN.js133078222761899350 0
-50C:\Users\wojto\BestShop2\dist\Catalog.5ebe22b4.svg133078279554271744 0
+50C:\Users\wojto\BestShop2\dist\Catalog.5ebe22b4.svg133078303640963762 0
 51C:\Users\wojto\BestShop2\node_modules\source-map-js133078222851875592 1
 87C:\Users\wojto\BestShop2\node_modules\dom-serializer\node_modules\entities\lib\index.js133078222788643881 0
 56C:\Users\wojto\BestShop2\node_modules\source-map-support133078222852030438 1
@@ -613,7 +616,7 @@
 50C:\Users\wojto\BestShop2\node_modules\yaml\pair.js133078222868017547 0
 87C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133078222562148654 1
 69C:\Users\wojto\BestShop2\node_modules\source-map-support\package.json133078222851982505 0
-48C:\Users\wojto\BestShop2\dist\index.9755ff54.css133078279554535368 0
+48C:\Users\wojto\BestShop2\dist\index.9755ff54.css133078303637033601 0
 57C:\Users\wojto\BestShop2\node_modules\yaml\parse-cst.d.ts133078222868017547 0
 49C:\Users\wojto\BestShop2\node_modules\yaml\seq.js133078222868031339 0
 74C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\fixtures\bundle.js133078222561918368 0
@@ -783,13 +786,13 @@
 73C:\Users\wojto\BestShop2\node_modules\source-map\dist\source-map.debug.js133078222852131888 0
 55C:\Users\wojto\BestShop2\node_modules\msgpackr\index.js133078222822245192 0
 64C:\Users\wojto\BestShop2\node_modules\yaml\browser\dist\types.js133078222867792674 0
-63C:\Users\wojto\BestShop2\node_modules\dotenv-expand\lib\main.js133078222791133432 0
-63C:\Users\wojto\BestShop2\node_modules\yaml\browser\dist\util.js133078222867814173 0
-65C:\Users\wojto\BestShop2\node_modules\lines-and-columns\README.md133078222811541323 0
-62C:\Users\wojto\BestShop2\node_modules\v8-compile-cache\LICENSE133078222865275524 0
 82C:\Users\wojto\BestShop2\node_modules\utility-types\dist\functional-helpers.js.map133078222864948379 0
 76C:\Users\wojto\BestShop2\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133078222814961151 0
 58C:\Users\wojto\BestShop2\node_modules\timsort\package.json133078222859108614 0
+63C:\Users\wojto\BestShop2\node_modules\dotenv-expand\lib\main.js133078222791133432 0
+65C:\Users\wojto\BestShop2\node_modules\lines-and-columns\README.md133078222811541323 0
+63C:\Users\wojto\BestShop2\node_modules\yaml\browser\dist\util.js133078222867814173 0
+62C:\Users\wojto\BestShop2\node_modules\v8-compile-cache\LICENSE133078222865275524 0
 78C:\Users\wojto\BestShop2\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133078222814884501 0
 56C:\Users\wojto\BestShop2\node_modules\acorn\package.json133078222732804143 0
 77C:\Users\wojto\BestShop2\node_modules\@parcel\runtime-js\src\helpers\.babelrc133078222578482619 0
@@ -891,10 +894,10 @@
 65C:\Users\wojto\BestShop2\node_modules\type-fest\source\entry.d.ts133078222863076160 0
 61C:\Users\wojto\BestShop2\node_modules\lmdb\dist\index.cjs.map133078222815841170 0
 122C:\Users\wojto\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\main.js133078222567999571 0
-64C:\Users\wojto\BestShop2\node_modules\source-map\source-map.d.ts133078222853340331 0
-72C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\avif.js133078222736353512 0
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\TZ.js133078222764494231 0
 64C:\Users\wojto\BestShop2\node_modules\utility-types\CHANGELOG.md133078222864383458 0
+72C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\avif.js133078222736353512 0
+64C:\Users\wojto\BestShop2\node_modules\source-map\source-map.d.ts133078222853340331 0
 64C:\Users\wojto\BestShop2\node_modules\utility-types\package.json133078222865173719 0
 62C:\Users\wojto\BestShop2\node_modules\htmlparser2\lib\index.js133078222805026317 0
 65C:\Users\wojto\BestShop2\node_modules\svgo\plugins\removeXMLNS.js133078222856675063 0
@@ -1101,9 +1104,9 @@
 67C:\Users\wojto\BestShop2\node_modules\@parcel\namer-default\LICENSE133078222567722443 0
 76C:\Users\wojto\BestShop2\node_modules\@parcel\codeframe\lib\codeframe.js.map133078222560698960 0
 64C:\Users\wojto\BestShop2\node_modules\tslib\modules\package.json133078222861631343 0
-69C:\Users\wojto\BestShop2\node_modules\terser\lib\compress\evaluate.js133078222857315067 0
 54C:\Users\wojto\BestShop2\node_modules\is-json\index.js133078222809502472 0
 72C:\Users\wojto\BestShop2\node_modules\source-map-js\lib\binary-search.js133078222850877792 0
+69C:\Users\wojto\BestShop2\node_modules\terser\lib\compress\evaluate.js133078222857315067 0
 66C:\Users\wojto\BestShop2\node_modules\.bin\node-gyp-build-test.ps1133078222552595642 0
 56C:\Users\wojto\BestShop2\node_modules\htmlnano\README.md133078222798188927 0
 61C:\Users\wojto\BestShop2\node_modules\to-regex-range\index.js133078222861326973 0
@@ -1701,7 +1704,6 @@
 81C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\mediarecorder.js133078222753337086 0
 51C:\Users\wojto\BestShop2\node_modules\lmdb\index.js133078222815869922 0
 66C:\Users\wojto\BestShop2\node_modules\nth-check\lib\parse.d.ts.map133078222827008232 0
-81C:\Users\wojto\BestShop2\node_modules\@mischnic\json-sourcemap\dist\index.js.flow133078222559045548 0
 72C:\Users\wojto\BestShop2\node_modules\nth-check\lib\esm\compile.d.ts.map133078222826506419 0
 115C:\Users\wojto\BestShop2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\module.js133078222568072162 0
 85C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\input-placeholder.js133078222750759219 0
@@ -2315,7 +2317,7 @@
 56C:\Users\wojto\BestShop2\node_modules\dotenv\lib\main.js133078222791519431 0
 55C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data133078222757750354 1
 75C:\Users\wojto\BestShop2\node_modules\@parcel\workers\test\cpuCount.test.js133078222717128886 0
-52C:\Users\wojto\BestShop2\dist\index.9755ff54.css.map133078279554564989 0
+52C:\Users\wojto\BestShop2\dist\index.9755ff54.css.map133078303637115454 0
 52C:\Users\wojto\BestShop2\node_modules\csso\lib\clean133078222779470728 1
 50C:\Users\wojto\BestShop2\node_modules\domutils\lib133078222790662330 1
 56C:\Users\wojto\BestShop2\node_modules\domutils\readme.md133078222790770210 0
@@ -2778,7 +2780,7 @@
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\DZ.js133078222759911584 0
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\EG.js133078222760025171 0
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\FJ.js133078222760173115 0
-46C:\Users\wojto\BestShop2\dist\Eye.10263c42.svg133078279552393862 0
+46C:\Users\wojto\BestShop2\dist\Eye.10263c42.svg133078303640943793 0
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\FK.js133078222760183122 0
 75C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\netinfo.js133078222753869955 0
 69C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\regions\FO.js133078222760299642 0
@@ -3006,7 +3008,7 @@
 84C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\css-motion-paths.js133078222741956123 0
 75C:\Users\wojto\BestShop2\node_modules\@parcel\transformer-svg\lib\inline.js133078222696713915 0
 79C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\css-nesting.js133078222741976092 0
-49C:\Users\wojto\BestShop2\dist\Person.880b4a19.svg133078279554282193 0
+49C:\Users\wojto\BestShop2\dist\Person.880b4a19.svg133078303640963762 0
 79C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\css-opacity.js133078222742164457 0
 88C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\css-overflow-overlay.js133078222742204961 0
 76C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_array_with_holes.mjs133078222721072039 0
@@ -3181,7 +3183,7 @@
 83C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\media-attribute.js133078222753182197 0
 83C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\media-fragments.js133078222753192232 0
 85C:\Users\wojto\BestShop2\node_modules\@parcel\package-manager\src\NodeResolverBase.js133078222571882849 0
-50C:\Users\wojto\BestShop2\dist\Macbook.a5eb91ef.png133078279552303579 0
+50C:\Users\wojto\BestShop2\dist\Macbook.a5eb91ef.png133078303637680151 0
 85C:\Users\wojto\BestShop2\node_modules\caniuse-lite\data\features\media-session-api.js133078222753192232 0
 87C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133078222721316431 0
 86C:\Users\wojto\BestShop2\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133078222592453663 0
@@ -3455,8 +3457,6 @@
 73C:\Users\wojto\BestShop2\node_modules\@parcel\transformer-postcss\LICENSE133078222684733794 0
 75C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_sliced_to_array.mjs133078222724123317 0
 76C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_get_prototype_of.mjs133078222723137661 0
-74C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_inherits_loose.mjs133078222723234864 0
-69C:\Users\wojto\BestShop2\node_modules\@parcel\transformer-postcss\src133078222686484364 1
 87C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_initializer_define_property.mjs133078222723561949 0
 86C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_initializer_warning_helper.mjs133078222723572530 0
 87C:\Users\wojto\BestShop2\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs133078222723769344 0
@@ -4098,7 +4098,7 @@
 77C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\TargetRequest.test.js133078222561905212 0
 69C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\test-utils.js133078222562325091 0
 67C:\Users\wojto\BestShop2\node_modules\@parcel\core\src\constants.js133078222561237929 0
-50C:\Users\wojto\BestShop2\dist\Trumpet.d291d6ae.png133078279552313603 0
+50C:\Users\wojto\BestShop2\dist\Trumpet.d291d6ae.png133078303637644771 0
 85C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\fixtures\config-node-pipeline133078222561979863 1
 72C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\fixtures\context133078222562108659 1
 88C:\Users\wojto\BestShop2\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133078222562118690 1
@@ -4198,6 +4198,7 @@
 83C:\Users\wojto\BestShop2\node_modules\@parcel\bundler-default\src\DefaultBundler.js133078222559650267 0
 62C:\Users\wojto\BestShop2\node_modules\@mischnic\json-sourcemap133078222559055548 1
 78C:\Users\wojto\BestShop2\node_modules\@mischnic\json-sourcemap\dist\index.d.ts133078222559025042 0
+81C:\Users\wojto\BestShop2\node_modules\@mischnic\json-sourcemap\dist\index.js.flow133078222559045548 0
 58C:\Users\wojto\BestShop2\node_modules\@lmdb\lmdb-win32-x64133078222558998465 1
 67C:\Users\wojto\BestShop2\node_modules\@lmdb\lmdb-win32-x64\index.js133078222558428695 0
 75C:\Users\wojto\BestShop2\node_modules\@lmdb\lmdb-win32-x64\node.abi102.node133078222558486308 0
@@ -4359,26 +4360,26 @@
 46C:\Users\wojto\BestShop2\images\Phone Icon.svg133078222868212155 0
 43C:\Users\wojto\BestShop2\images\Trumpet.png133078222868222947 0
 43C:\Users\wojto\BestShop2\images\Twitter.svg133078222868222947 0
-53C:\Users\wojto\BestShop2\dist\Background.b0093fb6.png133078279552393862 0
-55C:\Users\wojto\BestShop2\dist\BestShop2.3464ddca.js.map133078279554574981 0
+53C:\Users\wojto\BestShop2\dist\Background.b0093fb6.png133078303637680151 0
+55C:\Users\wojto\BestShop2\dist\BestShop2.3464ddca.js.map133078303629855226 0
 50C:\Users\wojto\BestShop2\dist\Catalog.5dd54124.svg133078223622888760 0
-54C:\Users\wojto\BestShop2\dist\Checkmark-1.49adf3b1.svg133078279552393862 0
+54C:\Users\wojto\BestShop2\dist\Checkmark-1.49adf3b1.svg133078303640953790 0
 54C:\Users\wojto\BestShop2\dist\Checkmark-1.c79c0c4f.svg133078223622877710 0
-52C:\Users\wojto\BestShop2\dist\Checkmark.5be52c02.svg133078279552393862 0
+52C:\Users\wojto\BestShop2\dist\Checkmark.5be52c02.svg133078303640953790 0
 52C:\Users\wojto\BestShop2\dist\Checkmark.e7ad06c8.svg133078223622877710 0
-48C:\Users\wojto\BestShop2\dist\Close.f14f7566.svg133078279554282193 0
+48C:\Users\wojto\BestShop2\dist\Close.f14f7566.svg133078303641005033 0
 46C:\Users\wojto\BestShop2\dist\Eye.72c6fe94.svg133078223622877710 0
 51C:\Users\wojto\BestShop2\dist\Facebook.3256cd36.svg133078223622877710 0
-51C:\Users\wojto\BestShop2\dist\Facebook.b1acd7ee.svg133078279552393862 0
+51C:\Users\wojto\BestShop2\dist\Facebook.b1acd7ee.svg133078303640953790 0
 52C:\Users\wojto\BestShop2\dist\index.8537b4f4.css.map133078223623051201 0
-49C:\Users\wojto\BestShop2\dist\iPhone.65a507eb.png133078279553736347 0
+49C:\Users\wojto\BestShop2\dist\iPhone.65a507eb.png133078303636916140 0
 50C:\Users\wojto\BestShop2\dist\Macbook.7ad6a2bb.png133078223622888760 0
-52C:\Users\wojto\BestShop2\dist\Mail Icon.795518c4.svg133078279554282193 0
+52C:\Users\wojto\BestShop2\dist\Mail Icon.795518c4.svg133078303641069809 0
 49C:\Users\wojto\BestShop2\dist\Person.5fd86b4c.svg133078223622877710 0
 53C:\Users\wojto\BestShop2\dist\Phone Icon.41cc3436.svg133078223622877710 0
-53C:\Users\wojto\BestShop2\dist\Phone Icon.82019235.svg133078279552393862 0
+53C:\Users\wojto\BestShop2\dist\Phone Icon.82019235.svg133078303640953790 0
 50C:\Users\wojto\BestShop2\dist\Trumpet.54bc1990.png133078223622877710 0
-50C:\Users\wojto\BestShop2\dist\Twitter.1a2aeb0b.svg133078279554282193 0
+50C:\Users\wojto\BestShop2\dist\Twitter.1a2aeb0b.svg133078303641005033 0
 44C:\Users\wojto\BestShop2\.idea\BestShop2.iml133078222549427634 0
 42C:\Users\wojto\BestShop2\.idea\modules.xml133078222549436910 0
-44C:\Users\wojto\BestShop2\.idea\workspace.xml133078279580846371 0
+44C:\Users\wojto\BestShop2\.idea\workspace.xml133078300718375044 0
