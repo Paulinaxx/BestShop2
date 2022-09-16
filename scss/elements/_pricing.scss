@@ -1,27 +1,22 @@
-@import 'scss/elements/_base.scss';
-@import 'scss/settings/_variables.scss';
-@import 'scss/settings/_mixins.scss';
-@import 'scss/elements/_buttons.scss';
-
-
 .pricing {
   margin: 100px auto;
   display: flex;
-  align-items: center;
-  justify-content: center;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
-  @include desktop {
+  @include notebook {
     margin: 50px auto;
   }
 
+
   &__boxes {
-    margin-top: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 50px;
 
-    @include desktop {
+    @include notebook {
       flex-direction: column;
       width: 100%;
     }
@@ -29,13 +24,13 @@
 
   &__box {
     width: 370px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     border-radius: 18px;
-    border: 1px solid $color-redish;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid var(--accent-color);
 
-    @include desktop {
+    @include notebook {
       width: 100%;
       max-width: 370px;
       flex-direction: row;
@@ -53,94 +48,91 @@
       position: relative;
       bottom: -25px;
       font-size: 0.8125rem;
-
-      &--redish {
-        background-color: $color-redish;
-      }
-      &--primary {
-        background-color: $color-primary;
-      }
-      &--green {
-        background-color: $color-green;
-      }
+      background-color: var(--accent-color);
     }
 
-    &__basic {
-      border: 1px solid $color-redish;
+
+
+    /*** Basic Box ***/
+    &--basic {
+      --accent-color: #{$color-redish};
 
       .pricing__price {
         margin-bottom: 30px;
 
-        @include desktop {
+        @include notebook {
           margin-bottom: 0;
         }
       }
     }
 
-    &__professional {
-      border: 1px solid $color-primary;
+    /*** Professional Box **/
+    &--professional {
+      --accent-color: #{$color-primary};
       width: 400px;
       margin: 0 40px;
-      box-shadow: 5px 1px 27px $color-shadow;
+      box-shadow: 5px 1px 27px $color-primary-shadow;
 
-      @include tablet {
+      @include notebook {
         max-width: 400px;
         width: 100%;
         margin: 0 0 50px 0;
       }
 
       .pricing {
-        &__limited {
+        &__type {
           font-size: 1.3125rem;
         }
-        &__items {
+
+        &__item {
           margin-bottom: 25px;
         }
       }
     }
 
-    &__premium {
-      border: 1px solid $color-green;
+    /*** Premium Box ***/
+    &--premium {
+      --accent-color: #{$color-green};
     }
   }
+
   &__details {
-    margin-bottom: 60px;
     margin-top: 34px;
+    margin-bottom: 60px;
     text-align: center;
 
-    @include desktop {
+    @include notebook {
       width: 50%;
       margin: 0;
     }
   }
 
-  &__name {
-      font-family: $font-raleway;
-      font-weight: 700;
-      font-size: 1.25rem;
-    }
-
-  &__price {
-    margin-top: 25px;
-    font-size: 4rem;
-    font-family: $font-open-sans;
-    font-weight: 300;
-    &__basic {
-      color: $color-redish;
-    }
-    &__professional {
-      color: $color-primary
-    }
-    &__premium {
-      color: $color-green;
-    }
+  &__type {
+    font-size: 1.25rem;
+    font-family: $font-raleway;
+    font-weight: 700;
   }
 
+  &__price {
+    font-size: 2.875rem;
+    font-family: $font-open-sans;
+    font-weight: 300;
+    margin-top: 25px;
+    color: var(--accent-color);
+  }
+
+  &__limited {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 0.75rem;
+    font-family: $font-raleway;
+    font-weight: 700;
+  }
 
   &__items {
     text-align: center;
 
-    @include desktop {
+    @include notebook {
       width: 50%;
       text-align: left;
     }
@@ -150,7 +142,7 @@
     font-size: 14px;
     margin-bottom: 20px;
 
-    @include desktop {
+    @include notebook {
       &:last-child {
         margin-bottom: 0;
       }
@@ -162,16 +154,11 @@
       height: 11px;
       display: inline-block;
       margin-right: 10px;
-      background-image: url("../images/Checkmark.svg");
+      background-image: url("/images/Checkmark-1.svg");
     }
 
-    .pricing_item_red::before {
-      content: "";
-      width: 11px;
-      height: 11px;
-      display: inline-block;
-      margin-right: 10px;
-      background-image: url("../images/Close.svg");
+    &--not::before {
+      background-image: url("/images/Close.svg");
     }
   }
 }

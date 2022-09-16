@@ -1,34 +1,29 @@
-@import 'scss/elements/_base.scss';
-@import 'scss/settings/_variables.scss';
-@import 'scss/elements/_buttons.scss';
-@import 'scss/settings/_mixins.scss';
-
 .footer {
   box-shadow: 0 -5px 40px #00000029;
   padding: 20px 0;
 
+
   &__container {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
+
   &__info {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+  }
 
-  &__logo {
-    text-decoration: none;
-    color: $color-primary;
-    font-family: $font-raleway;
-    font-size: 2rem;
-    font-weight: 300;
-   }
-   &__year-copyright {
-      color: $color-grey;
-      line-height: 2rem;
-      margin-top: 5px;
-    }
+  &__copy {
+    font-size: 0.6875rem;
+    line-height: 1.5rem;
+    color: $color-grey;
+    margin-top: 6px;
+  }
+
+  &__icons a:first-of-type {
+    margin-right: 25px;
   }
 }
 
